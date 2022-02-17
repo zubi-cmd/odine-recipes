@@ -1,0 +1,19 @@
+*{
+    background-color:darkred;
+    font-family: 'Times New Roman', Times, serif;
+}
+h1{
+    background-color:black;
+    color:cadetblue;
+    text-align:center;
+    font: size 32px;
+    font-weight: bolder;
+}
+ul{
+    color:darkseagreen;
+    font-weight: 700;
+}
+a{
+    color:darkseagreen;
+    font-size:medium;
+}
