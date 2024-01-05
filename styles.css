@@ -1,0 +1,54 @@
+.top
+{
+    color:limegreen;
+    height:auto;
+    width:auto;
+    font-size:30px;
+    font-style:oblique;
+    border-style:hidden;
+    padding-left: 100px;
+    background-color:black;
+     
+
+}
+ul{
+    list-style:inside;
+    margin-left: 100px;
+}
+
+
+img{
+    height:auto;
+    width:500px;
+    border-style:solid;
+    border-color:orange;
+    border-width:thick;
+    margin-left: 100px;
+}
+h2{
+   background-color:darkolivegreen;
+    color:orangered;
+    font-style:oblique;font-weight: bolder;
+}
+
+.box{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 100px;
+    margin-right: 150px;
+    padding:10px 10px 10px 10px;
+    border-style:hidden;
+    border-width: 500px;
+    
+}
+
+body{
+    background-color:lemonchiffon;
+    font-size:20px;
+    font-family:"DejaVu Sans", sans-serif;
+    color:limegreen;
+    
+
+
+}
+

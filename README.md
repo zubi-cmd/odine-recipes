@@ -1,2 +1,2 @@
-# odine-recipes
-This project requires that i build a basic recipie website. 
+# odin-recipes
+Project for practicing html knowledge by building a basic website
