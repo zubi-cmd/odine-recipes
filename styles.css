@@ -5,17 +5,24 @@
     width:auto;
     font-size:30px;
     font-style:oblique;
-    border-style:hidden;
     padding-left: 100px;
     background-color:black;
-     
+    margin-left:100px;
+    margin-bottom: 20px;
+    margin-top:50px;
+    display:block;
+    text-align: center;
 
 }
+
 ul{
-    list-style:inside;
+    list-style:outside;
     margin-left: 100px;
 }
-
+ol{
+    
+    margin-left:100px
+}
 
 img{
     height:auto;
@@ -24,31 +31,45 @@ img{
     border-color:orange;
     border-width:thick;
     margin-left: 100px;
+    display: inline;
 }
 h2{
    background-color:darkolivegreen;
     color:orangered;
     font-style:oblique;font-weight: bolder;
-}
-
-.box{
-    margin-top: 50px;
-    margin-bottom: 50px;
-    margin-left: 100px;
-    margin-right: 150px;
-    padding:10px 10px 10px 10px;
-    border-style:hidden;
-    border-width: 500px;
     
 }
+
 
 body{
     background-color:lemonchiffon;
     font-size:20px;
     font-family:"DejaVu Sans", sans-serif;
     color:limegreen;
-    
 
 
 }
+.in-line{
+    display:inline;
+}
+li{
+    color:rebeccapurple;
+}
+a{
+    color:rebeccapurple;
+}
+@media (min-width:380px) and (max-width:1200px)
+{
+body{
+    font-size:15px;
+    
+
+}
+}
+
+
+
+
+
+
 
